@@ -1,2 +1,5 @@
-# thaumaturgy
-Language Control Set for C++
+# Thaumaturgy
+
+## Introduction
+
+Thaumaturgy is a **header-only C++ language substrate**
