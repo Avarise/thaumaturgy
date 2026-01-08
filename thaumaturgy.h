@@ -10,3 +10,5 @@
 #endif
 
 #include "yield.h"
+#include "trap.h"
+#include "ecs.h"
